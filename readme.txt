@@ -1,2 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
+这是一个简单的少女系坦克游戏（^_*）。
